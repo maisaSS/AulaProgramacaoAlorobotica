@@ -6,4 +6,6 @@ A aula tem como objetivo ensinar as estruturas lógicas "if, else, for e while" 
 Link da aula:
 https://www.youtube.com/watch?v=pg7BxPKKvlg&t=5s
 
-Link do projeto no Tinkercad
+Link do projeto no Tinkercad:
+https://www.tinkercad.com/things/1rD1QcuLvh7-copy-of-exquisite-bigery-robo/editel?sharecode=eez28UFjDtdxKoNikoYligmzByhT4WIi98bickxf_rA
+
